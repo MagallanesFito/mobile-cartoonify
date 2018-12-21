@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/fragosoa/Escritorio/Universidad/ipm/practicas/ipm-p2/ipm-p2/picture_converter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml",
+            "map": [
+                {
+                    "source": "/home/fragosoa/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c9e567d29e76ca4a0bf5823304499b40/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

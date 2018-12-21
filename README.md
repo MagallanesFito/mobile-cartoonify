@@ -1,8 +1,8 @@
 # mobile-cartoonify
 
-This is a mobile version of cartoonify application (https://github.com/danmacnish/cartoonify).
+An android implementation of cartoonify application (https://github.com/danmacnish/cartoonify).
 
-The project consist in a flutter application that takes photos with the camera and converts them into a cartoon version.
+The project consist in a mobile application that takes photos with the camera and converts them into a cartoon version.
 
 # Features
 
